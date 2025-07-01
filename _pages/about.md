@@ -24,7 +24,7 @@ My research interests include:
 + Multimodal Representation Learning
 + Misinformation Detection
   
-<a href='https://scholar.google.com/citations?user=_NICS5EAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar%20Citations-8-9cf?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations">
+<a href='https://scholar.google.com/citations?user=_NICS5EAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar%20Citations-9-9cf?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations">
 
 <nobr><font color=LightCoral>I'm currently applying for a PhD position for Fall 2026.</font> Feel free to contact me if you're interested in my research or just want to chat!</nobr>
 
@@ -32,24 +32,34 @@ My Email: <moyang_liu@buaa.edu.cn>
 
 # 📝 Publications 
 
-- \[**ArXiv**\]
+- \[**Preprint**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention
   </span>
 
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
-    \[<a href="https://arxiv.org/abs/2504.09163" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025
+    \[<a href="https://arxiv.org/abs/2504.09163" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under review at IEEE Transactions on Multimedia (TMM)
 <br/>
 <div style="margin-top: 23px;"></div>
-- \[**ArXiv**\]
+- \[**Preprint**\]
+  <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+    Debunk and Infer: Multimodal Fake News Detection via Diffusion-Generated Evidence and LLM Reasoning
+  </span>
+
+    Kaiying Yan, <strong><u>Moyang Liu</u></strong>, Yukun Liu, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Xuefei Liu
+  
+    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under review at IEEE Transactions on Information Forensics and Security (TIFS)
+<br/>
+<div style="margin-top: 23px;"></div>
+- \[**Preprint**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Exploring Modality Disruption in Multimodal Fake News Detection
   </span>
 
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
-    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025
+    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under review at ACM Multimedia Asia, 2025
 <br/>
 <div style="margin-top: 23px;"></div>
 - \[**ICASSP 2025**\]
