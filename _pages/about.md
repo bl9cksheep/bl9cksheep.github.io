@@ -64,7 +64,7 @@ My Email: <moyang_liu@buaa.edu.cn>
 <div style="margin-top: 23px;"></div>
 - \[**ICASSP 2025**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
-    MTPareto: A MultiModal Targeted Pareto Framework for Fake News Detection
+    MTPareto: A Multimodal Targeted Pareto Framework for Fake News Detection
   </span>
 
     Kaiying Yan, <strong><u>Moyang Liu</u></strong>, Yukun Liu, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Xuefei Liu, Guanjun Li
