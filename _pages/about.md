@@ -49,7 +49,7 @@ My Email: <moyang_liu@buaa.edu.cn>
 
     Kaiying Yan, <strong><u>Moyang Liu</u></strong>, Yukun Liu, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Xuefei Liu
   
-    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under review at IEEE Transactions on Information Forensics and Security (TIFS)
+    \[<a href="https://arxiv.org/abs/2506.21557" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under review at IEEE Transactions on Information Forensics and Security (TIFS)
 <br/>
 <div style="margin-top: 23px;"></div>
 - \[**Preprint**\]
